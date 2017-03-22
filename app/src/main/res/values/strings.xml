@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Facebook Photos Exporting</string>
+
+    <string name="facebook_app_id">1424761267544940</string>
+    <string name="fb_login_protocol_scheme">fb1424761267544940</string>
+    <string name="server_back_end">http://192.168.1.2:5000/upload</string>
+
+</resources>
